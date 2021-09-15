@@ -1,0 +1,42 @@
+Afrikaans af 0.09 Latin IE: Germanic X 3
+Arabic ar 1.02 Arabic Afro-Asiatic X X X 7
+Basque eu 0.34 Latin Basque X X X X 3
+Bengali bn 0.08 Brahmic IE: Indo-Aryan X X X X X 3
+Bulgarian bg 0.26 Cyrillic IE: Slavic X X X 4
+Burmese my 0.05 Brahmic Sino-Tibetan X X 1
+Dutch nl 1.99 Latin IE: Germanic X 3
+English en 5.98 Latin IE: Germanic 9
+Estonian et 0.20 Latin Uralic X X X X 3
+Finnish fi 0.47 Latin Uralic X X 3
+French fr 2.16 Latin IE: Romance X X 6
+Georgian ka 0.13 Georgian Kartvelian X X 2
+German de 2.37 Latin IE: Germanic X X 8
+Greek el 0.17 Greek IE: Greek X X X 5
+Hebrew he 0.25 Hebrew Afro-Asiatic X 3
+Hindi hi 0.13 Devanagari IE: Indo-Aryan X X X X X 6
+Hungarian hu 0.46 Latin Uralic X X X X 4
+Indonesian id 0.51 Latin Austronesian X X X 4
+Italian it 1.57 Latin IE: Romance X X 3
+Japanese ja 1.18 Ideograms Japonic X X 4
+Javanese jv 0.06 Brahmic Austronesian X X 1
+Kazakh kk 0.23 Arabic Turkic X X X 1
+Korean ko 0.47 Hangul Koreanic X X X 5
+Malay ms 0.33 Latin Austronesian X X 2
+Malayalam ml 0.07 Brahmic Dravidian X X X X 2
+Mandarin zh 1.09 Chinese ideograms Sino-Tibetan X 8
+Marathi mr 0.06 Devanagari IE: Indo-Aryan X X 3
+Persian fa 0.70 Perso-Arabic IE: Iranian X 2
+Portuguese pt 1.02 Latin IE: Romance X X 3
+Russian ru 1.58 Cyrillic IE: Slavic X 7
+Spanish es 1.56 Latin IE: Romance X X 7
+Swahili sw 0.05 Latin Niger-Congo X X X 3
+Tagalog tl 0.08 Brahmic Austronesian X X X 1
+Tamil ta 0.12 Brahmic Dravidian X X X X X 3
+Telugu te 0.07 Brahmic Dravidian X X X X X 4
+Thai th 0.13 Brahmic Kra-Dai X 4
+Turkish tr 0.34 Latin Turkic X X X X 5
+Urdu ur 0.15 Perso-Arabic IE: Indo-Aryan X X X X X 4
+Vietnamese vi 1.24 Latin Austro-Asiatic X 6
+Yoruba yo 0.03 Latin Niger-Congo X 1
+Swedish sv 0.00 Latin IE: Germanic X 1
+Danish da 0.00 Latin IE: Germanic X 1
